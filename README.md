@@ -1,2 +1,2 @@
-# Phase1_project_Doc
+# AI_Based_Diatebes_prevention_system_project
 problem statement and solution
